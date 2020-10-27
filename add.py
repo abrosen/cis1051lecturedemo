@@ -1,3 +1,3 @@
 # adds two numbers
-def add(y, z):
-  return y + z
+def add(a, b):
+  return a + b
